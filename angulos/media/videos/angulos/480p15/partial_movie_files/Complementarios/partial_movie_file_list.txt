@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/4266129954_2318518662_223132457.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_1076466279_3200038540.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_2190372890_2306153915.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_2913639347_4255905551.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_125286499_2999402858.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_3329157485_1420324213.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_3700151205_2217259497.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_3366688104_2922325915.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_3390684168_839974275.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_2898581394_439580640.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/Complementarios/1442284246_125286499_501853331.mp4'

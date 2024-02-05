@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/4266129954_3073779459_1122610268.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/1442284246_405071470_3013720854.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/1442284246_1173599526_2156199207.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/1442284246_302147811_1756732306.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/1442284246_141753579_315918787.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/angulos/media/videos/angulos/480p15/partial_movie_files/AgudoObtuso/1442284246_125286499_2213373490.mp4'

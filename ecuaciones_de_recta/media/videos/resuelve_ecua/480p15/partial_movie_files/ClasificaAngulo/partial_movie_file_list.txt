@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ClasificaAngulo/4266129954_345352296_1905153994.mp4'

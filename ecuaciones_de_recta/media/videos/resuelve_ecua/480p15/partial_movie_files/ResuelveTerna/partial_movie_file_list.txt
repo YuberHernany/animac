@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/4266129954_190800790_300882232.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_2732779479_230770454.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_1076466279_263157760.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_603996096_4121291445.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_1076466279_3561882822.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_2692680571_1085572655.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_1076466279_3817874440.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_2263390980_3946541808.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_1076466279_2690611165.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_2790347820_559734000.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/ResuelveTerna/1442284246_1076466279_2154499606.mp4'

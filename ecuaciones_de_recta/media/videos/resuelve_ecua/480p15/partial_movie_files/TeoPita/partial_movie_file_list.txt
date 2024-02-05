@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/4266129954_3567357625_223132457.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/1442284246_125286499_3922761247.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/1442284246_3270161510_1223127985.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/1442284246_125286499_1334898309.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/1442284246_382310545_3153709475.mp4'
+file 'file:/home/yuber/Documentos/nieves/2024/animac/ecuaciones_de_recta/media/videos/resuelve_ecua/480p15/partial_movie_files/TeoPita/1442284246_2358420384_3404872664.mp4'
