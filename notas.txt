@@ -1,0 +1,38 @@
+El nùmero PI es la divisiòn entre 
+una circunferencia y su diàmetro
+
+Si dos rectas se cruzan formando cuatro 
+àngulos iguales, entonces cada àngulo 
+mide 90 grados y se llama àngulo recto
+
+Un àngulo agudo es menor que 90 grados.
+
+Un àngulo obtuso es mayor que 90 y 
+menor que 180
+
+Un àngulo mayor que 180 es còncavo.
+
+Un àngulo de 180 es llano.
+
+Dos àngulos son complementarios si su
+suma es 90 grados.
+
+Dos àngulos son sumplementarios si su
+suma es 180 grados.
+
+
+Un radiàn es un àngulo que se construye
+tomando un radio y reacomodàndolo sobre
+la circunferencia.
+
+Un radiàn es un àngulo que se contruya
+tomando un radio y reacomodàndolo 
+sobre la circunferencia
+
+Un radiàn es un àngulo que se construye
+tomando un radio y reacomodàndolo sobre
+la circunferencia.
+
+
+Cuànto recorre una persona 
+que le da la vuelta al mundo?d

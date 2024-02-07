@@ -304,3 +304,51 @@ class AreaCirculo(Scene):
         
 
 
+class Suma180(Scene):
+    def construct(self):
+        def resaltar(obj, n=4):
+            for _ in range(2*n):
+                self.play(FadeIn(obj), run_time=0.2)
+                self.play(FadeOut(obj), run_time=0.2)
+
+        t_alpha = MathTex("\\alpha").scale(1.5).shift(1.2*RIGHT+0.7*DOWN)
+        t_beta = MathTex("\\beta").scale(1.5).shift(1.2*LEFT+0.7*DOWN)
+        t_gamma = MathTex("\\gamma").scale(1.5).shift(0.3*UP)
+        triangulo = Polygon(*[[-2,-1,0], [2,-1,0], [0,1,0]], stroke_width=12).set_color(YELLOW)
+        l1 = Line(4*LEFT, 4*RIGHT).shift(DOWN)
+        l2 = Line(4*LEFT, 4*RIGHT).shift(UP)
+        l3 = Line(4*LEFT+4*DOWN, 4*RIGHT+4*UP).shift(UP)
+        l4 = Line(4*LEFT+4*UP, 4*RIGHT+4*DOWN).shift(UP)
+        self.play(Create(triangulo))
+        self.add(t_alpha, t_beta, t_gamma)
+        self.play(Create(l1),Create(l2),Create(l3),Create(l4))
+        resaltar(triangulo)
+        alpha_up = Arc(start_angle=0, angle=45*DEGREES, stroke_width=200).shift(UP).set_color(YELLOW)
+        alpha_down = alpha_up.copy().set_color(RED).shift(2*LEFT+2*DOWN).set_color(YELLOW)
+        beta_up = Arc(start_angle=0, angle=45*DEGREES, stroke_width=200).rotate(135*DEGREES, about_point=ORIGIN).set_color(RED).shift(UP)
+        beta_down = beta_up.copy().set_color(RED).shift(2*DOWN+2*RIGHT)
+    
+        gamma_up = Arc(stroke_width=200, angle=90*DEGREES).rotate(45*DEGREES, about_point=ORIGIN).shift(UP).set_color(BLUE)
+        gamma_down = gamma_up.copy().set_color(BLUE)
+        gamma_down.rotate(180*DEGREES, about_point=ORIGIN).shift(2*UP)
+        
+        resaltar(alpha_down, n=2)
+        resaltar(beta_down, n=2)
+        resaltar(gamma_down, n=2)
+        self.wait(1)
+        self.play(FadeIn(gamma_down), FadeIn(gamma_up))
+        # self.play(gamma_down.animate.rotate(180*DEGREES, about_point=ORIGIN))
+        self.play(Rotating(gamma_down, about_point=ORIGIN, radians=TAU/2), run_time=2)
+        self.play(gamma_down.animate.shift(2*UP))
+        self.wait(1)
+        self.play(FadeIn(alpha_down), FadeIn(alpha_up))
+        self.play(Transform(alpha_down, alpha_up))
+        self.wait(1)
+        self.play(FadeIn(beta_down), FadeIn(beta_up))
+        self.play(Transform(beta_down, beta_up))
+        self.wait(1)
+        conclu = MathTex("\\alpha + \\beta + \\gamma = 180^{\circ}").scale(1.5).shift(3*DOWN)
+        self.play(Write(conclu))
+        rect_conclu = SurroundingRectangle(conclu)
+        self.play(Create(rect_conclu))
+        self.wait(1)
